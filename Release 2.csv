@@ -1,0 +1,9 @@
+Release R2,Requirement,Analysis,Design,Coding,Unit Testing,Integration Testing,System Testing,Field
+Requirement,88
+Analysis,9,81
+Design,48,31,99
+Coding,65,9,23,347
+Unit Testing,9,18,5,56,17
+Integration Testing,7,5,6,17,,8
+System Testing,11,7,3,16,,,5
+Field,3,4,3,4,,,,4

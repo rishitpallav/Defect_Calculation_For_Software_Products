@@ -1,0 +1,9 @@
+Release R1,Requirement,Analysis,Design,Coding,Unit Testing,Integration Testing,System Testing,Field
+Requirement,62
+Analysis,43,49
+Design,86,51,78
+Coding,81,21,61,258
+Unit Testing,23,35,8,185,29
+Integration Testing,11,15,21,27,,18
+System Testing,18,21,19,43,,,13
+Field,16,3,15,37,,,,5
